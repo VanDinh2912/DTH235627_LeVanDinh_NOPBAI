@@ -10,7 +10,6 @@ if a == 0:
     elif b==0 and c !=0:
         print("Vô nghiệm")
     else:
-
         x=-c/b
         print("No x=",x)
 else:
