@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # main.py
+=======
+
+>>>>>>> dev
 import Ham
 
 inp = input("Nhập 3 số dương a,b,c cách nhau bằng dấu phẩy: ")

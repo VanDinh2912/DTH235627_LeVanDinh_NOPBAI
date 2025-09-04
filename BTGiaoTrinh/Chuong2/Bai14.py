@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # main.py
+=======
+
+>>>>>>> dev
 import Ham
 import Ngay_Chuan
 
