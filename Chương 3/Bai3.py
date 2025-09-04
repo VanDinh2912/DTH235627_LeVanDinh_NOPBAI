@@ -4,7 +4,7 @@ a=float(input("Nhập a:"))
 b=float(input("Nhập b:"))
 c=float(input("Nhập c:"))
 if a == 0:
-#bx+c=0
+
     if b == 0 and c ==0:
         print("Vô số nghiệm")
     elif b==0 and c !=0:
