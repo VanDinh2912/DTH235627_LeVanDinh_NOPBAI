@@ -1,0 +1,1 @@
+ab = input("Nhap vao do dai a, b : ")

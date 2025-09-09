@@ -1,9 +1,6 @@
 import math
-
-
 x = float(input("Nhập x: "))
 n = int(input("Nhập n: "))
-
 S = 0
 for k in range(n + 1):
     tu_so = x ** (2 * k + 1)      
