@@ -15,5 +15,5 @@ def ChuThuong(chuoi):
 
 
 chuoi = input("Nhập vào chuỗi :")
-print("chu hoa:", ChuHoa(chuoi))
-# ChuThuong(chuoi)
+print("Số chữ in hoa:", ChuHoa(chuoi))
+print("Số chữ in thường:", ChuThuong(chuoi))
